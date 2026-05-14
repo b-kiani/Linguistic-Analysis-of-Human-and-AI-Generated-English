@@ -1,0 +1,5 @@
+﻿Dataset,Purpose,Rows,Human texts,AI texts,Domains
+HC3 processed,Human and ChatGPT paired response dataset,79331,53086,26245,"finance, medicine, open_qa, reddit_eli5, wiki_csai"
+BAWE processed,Additional authentic human academic writing,2761,2761,0,academic
+Balanced experimental dataset,Final machine learning and linguistic analysis dataset,52102,26051,26051,"academic, finance, medicine, open_qa, reddit_eli5, wiki_csai"
+Feature matrix,Dataset after linguistic feature extraction,52102,26051,26051,"academic, finance, medicine, open_qa, reddit_eli5, wiki_csai"
